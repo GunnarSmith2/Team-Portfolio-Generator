@@ -10,6 +10,9 @@ To build a Node.js command-line application that takes in information about empl
 Use inquirer from your command line to answer questions about your project. View walk through video here
 screencastify link: https://watch.screencastify.com/v/bbyv5FerqhsJhJBCi7sU
 
+# Mock 
+!![Sample HTML ](https://user-images.githubusercontent.com/104172862/178165675-8d9b7bcf-a212-49f0-9675-92cf119c80e5.png)
+
 # User Story
 AS A manager
 I WANT to generate a webpage that displays my team's basic info
