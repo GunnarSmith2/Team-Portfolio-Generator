@@ -6,7 +6,7 @@ UNIT 10 Challenge
 To build a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. 
 
 
-#Usage
+# Usage
 Use inquirer from your command line to answer questions about your project. View walk through video here
 screencastify link: https://watch.screencastify.com/v/bbyv5FerqhsJhJBCi7sU
 
