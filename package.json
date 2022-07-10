@@ -1,0 +1,19 @@
+{
+  "name": "team-portfolio-generator",
+  "version": "1.0.0",
+  "description": "app to create a team portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GunnarSmith2/Team-Portfolio-Generator.git"
+  },
+  "author": "Gunnar Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GunnarSmith2/Team-Portfolio-Generator/issues"
+  },
+  "homepage": "https://github.com/GunnarSmith2/Team-Portfolio-Generator#readme"
+}
